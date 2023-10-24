@@ -429,11 +429,11 @@ export default function MentorForm() {
               checked={isChecked}
               onChange={() => setIsChecked(!isChecked)}
             />
-            &nbsp;We will take 11% of your session price as platform fee. So
+            &nbsp;We will take 11% of your session price as a platform fee. So
             according to it keep your session price. Thank you!
           </label>
           <p>
-            Already have mentor account? <a href="/mentorLogin">Login</a>
+            Already have a mentor account? <a href="/mentorLogin">Login</a>
           </p>
           <p>
             Facing difficulties?{" "}
